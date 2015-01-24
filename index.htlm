@@ -1,7 +1,9 @@
 <!doctype html>
+<style>
 tr:nth-child(odd)		{ background-color:#eee; }
 tr:nth-child(even)		{ background-color:#fff; }
 tb{font-weight: bold}
+</style>
 <table>
   <tbody>
   <tr>
