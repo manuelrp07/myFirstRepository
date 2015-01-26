@@ -1,12 +1,3 @@
-<!doctype html>
-<html lang="en">
-<style>
-tr:nth-child(odd)   { background-color:#eee; }
-tr:nth-child(even)    { background-color:#fff; }
-tb{font-weight: bold}
-table{border-collapse: collapse;}
-table, th, td{border: 1px solid;}
-</style>
 <head> <title>Manuel Ramirez </title></head>
 <body>
 <table align ="center">
